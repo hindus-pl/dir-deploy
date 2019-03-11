@@ -1,0 +1,18 @@
+* app
+D bin/
+* css
+D data/
++ data/meta.json
+* js
+D log/
+D orders/
+D tmp/
+* ui
+* vendor
+*
+- .*
++ .htaccess
++ index.php
++ shop.ini
++ resizer.ini
++ config.ini
